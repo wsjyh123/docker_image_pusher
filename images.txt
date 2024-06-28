@@ -6,3 +6,4 @@ whyour/qinglong
 johngong/calibre-web
 vaultwarden/server
 portainer/portainer-ce
+onlyoffice/documentserver
