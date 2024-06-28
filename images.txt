@@ -1,5 +1,4 @@
 xiaoyaliu/alist
-dockerproxy.com/saobing/saobingpro
 gdy666/lucky
 halohub/halo
 whyour/qinglong
