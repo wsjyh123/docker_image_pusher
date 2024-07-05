@@ -7,3 +7,4 @@ vaultwarden/server
 portainer/portainer-ce
 onlyoffice/documentserver
 onlyoffice/communityserver
+joplin/server
