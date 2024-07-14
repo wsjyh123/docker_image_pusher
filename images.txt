@@ -10,3 +10,4 @@ onlyoffice/communityserver
 joplin/server
 moelin/1panel
 dockerproxy.com/library/alpine
+dangdingdog/cashbook
