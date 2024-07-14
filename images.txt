@@ -1,4 +1,5 @@
-halohub/halo
+registry.fit2cloud.com/halo/halo:2.17
+mysql:8.1.0
 xiaoyaliu/alist
 gdy666/lucky
 halohub/halo
