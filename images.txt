@@ -13,3 +13,4 @@ joplin/server
 moelin/1panel
 dockerproxy.com/library/alpine
 dingdangdog/cashbook
+talebook/talebook
