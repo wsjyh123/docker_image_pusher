@@ -15,4 +15,4 @@ dockerproxy.com/library/alpine
 dingdangdog/cashbook
 talebook/talebook
 btpanel/baota
-mysql:5.7.44
+mysql:5.7
