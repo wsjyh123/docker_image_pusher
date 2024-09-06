@@ -16,4 +16,4 @@ dingdangdog/cashbook
 talebook/talebook
 btpanel/baota
 mysql:5.7
-ych8398527/anynote
+ych8398527/anynote:1.0
