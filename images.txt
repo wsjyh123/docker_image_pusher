@@ -15,5 +15,5 @@ dockerproxy.com/library/alpine
 dingdangdog/cashbook
 talebook/talebook
 btpanel/baota
-ych8398527/anynote
 mysql:5.7
+ych8398527/anynote
