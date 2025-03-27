@@ -14,4 +14,5 @@ dockerproxy.com/library/alpine
 dingdangdog/cashbook
 talebook/talebook
 btpanel/baota
+1panel/1panel
 mysql:5.7
